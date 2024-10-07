@@ -1,3 +1,9 @@
+# Assessment: Arrays And Objects as State
+
+*This repo is my solution for the Qualified assessment for 5.3.6.*
+
+*Complete App.jsx and create ClickTimes.jsx component that, in conjunction with provided TimestampsDisplay.jsx, will render a list of timestamps in App.jsx for each time the button element in ClickTimes.jsx is clicked.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
